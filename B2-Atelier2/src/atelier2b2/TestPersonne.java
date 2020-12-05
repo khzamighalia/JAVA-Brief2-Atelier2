@@ -26,8 +26,6 @@ public class TestPersonne {
 		System.out.println(" Nombre de enseignants crées :"+Enseignant.nbrE);
 		System.out.println(" Nombre de enseignants crées :"+Enseignant.nbrE);
 		System.out.println(" Nombre de étudiants crées :"+Etudiant.nbrEt);
-		Etudiant et2=new Etudiant("Sggbai","ddFouad"," N20ddd RUE NNNNN","Fes",1978,"DEUG");
-		System.out.println(" Nombre de étudiants crées :"+Etudiant.nbrEt);
 
 	}
 
